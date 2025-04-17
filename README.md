@@ -7,5 +7,5 @@ The controlled experiment consisted of:
 - practical assignments ([SLO](TODO), [SRB](TODO)).
 
 The data of:
-- the background questionnaire is available in Excel ([SLO](TODO), [SLO](TODO)), and
-- the course results is available in Excel ([SLO](TODO), [SLO](TODO)).
+- the background questionnaire is available in Excel ([SLO](TODO), [SRB](TODO)), and
+- the course results is available in Excel ([SLO](TODO), [SRB](TODO)).
